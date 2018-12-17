@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="EditCasesRequest" type="PHP" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
